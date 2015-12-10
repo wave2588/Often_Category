@@ -8,6 +8,7 @@
 
 #import "AppDelegate.h"
 #import "BBMainViewController.h"
+#import "BBTotalCategory.h"
 
 @interface AppDelegate ()
 
@@ -23,7 +24,7 @@
     BBMainViewController *mainVC = [[BBMainViewController alloc]init];
     
     self.window.rootViewController = mainVC;
-    
+
     [self.window makeKeyAndVisible];
     
     return YES;
