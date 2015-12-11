@@ -10,6 +10,7 @@
 #import "UIViewController+Category.h"
 #import "UIWindow+Category.h"
 #import "UIApplication+Category.h"
+#import "UIButton+Category.h"
 
 @interface BBTotalCategory : NSObject
 
