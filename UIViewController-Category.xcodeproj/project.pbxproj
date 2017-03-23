@@ -20,6 +20,9 @@
 		40A74F631C19E6F000C0A09F /* UIApplication+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 40A74F621C19E6F000C0A09F /* UIApplication+Category.m */; };
 		40A74F661C19E86600C0A09F /* BBTotalCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 40A74F651C19E86600C0A09F /* BBTotalCategory.m */; };
 		40C216261C1A9F00000A541C /* UIButton+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 40C216251C1A9F00000A541C /* UIButton+Category.m */; };
+		40E597E31E839D5D000140D3 /* NSString+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 40E597E21E839D5D000140D3 /* NSString+Category.m */; };
+		40E597E91E839FCD000140D3 /* GTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = 40E597E61E839FCD000140D3 /* GTMBase64.m */; };
+		40E597EA1E839FCD000140D3 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 40E597E81E839FCD000140D3 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +50,12 @@
 		40A74F651C19E86600C0A09F /* BBTotalCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBTotalCategory.m; sourceTree = "<group>"; };
 		40C216241C1A9F00000A541C /* UIButton+Category.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Category.h"; sourceTree = "<group>"; };
 		40C216251C1A9F00000A541C /* UIButton+Category.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Category.m"; sourceTree = "<group>"; };
+		40E597E11E839D5D000140D3 /* NSString+Category.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Category.h"; sourceTree = "<group>"; };
+		40E597E21E839D5D000140D3 /* NSString+Category.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Category.m"; sourceTree = "<group>"; };
+		40E597E51E839FCD000140D3 /* GTMBase64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMBase64.h; sourceTree = "<group>"; };
+		40E597E61E839FCD000140D3 /* GTMBase64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GTMBase64.m; sourceTree = "<group>"; };
+		40E597E71E839FCD000140D3 /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
+		40E597E81E839FCD000140D3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +90,7 @@
 		40A74F2E1C19E05700C0A09F /* UIViewController-Category */ = {
 			isa = PBXGroup;
 			children = (
+				40E597E41E839FCD000140D3 /* GTMBase64 */,
 				40A74F491C19E3BF00C0A09F /* Category */,
 				40A74F321C19E05700C0A09F /* AppDelegate.h */,
 				40A74F331C19E05700C0A09F /* AppDelegate.m */,
@@ -119,8 +129,21 @@
 				406A7C1C1CEC670A00AF8166 /* UIImage+Blend.m */,
 				406A7C1D1CEC670A00AF8166 /* UIImage+vImage.h */,
 				406A7C1E1CEC670A00AF8166 /* UIImage+vImage.m */,
+				40E597E11E839D5D000140D3 /* NSString+Category.h */,
+				40E597E21E839D5D000140D3 /* NSString+Category.m */,
 			);
 			name = Category;
+			sourceTree = "<group>";
+		};
+		40E597E41E839FCD000140D3 /* GTMBase64 */ = {
+			isa = PBXGroup;
+			children = (
+				40E597E51E839FCD000140D3 /* GTMBase64.h */,
+				40E597E61E839FCD000140D3 /* GTMBase64.m */,
+				40E597E71E839FCD000140D3 /* GTMDefines.h */,
+				40E597E81E839FCD000140D3 /* README.md */,
+			);
+			path = GTMBase64;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -198,10 +221,13 @@
 				40C216261C1A9F00000A541C /* UIButton+Category.m in Sources */,
 				40A74F581C19E5ED00C0A09F /* UIViewController+Category.m in Sources */,
 				40A74F661C19E86600C0A09F /* BBTotalCategory.m in Sources */,
+				40E597EA1E839FCD000140D3 /* README.md in Sources */,
 				406A7C201CEC670A00AF8166 /* UIImage+vImage.m in Sources */,
 				406A7C1F1CEC670A00AF8166 /* UIImage+Blend.m in Sources */,
 				40A74F5E1C19E67E00C0A09F /* UIWindow+Category.m in Sources */,
+				40E597E91E839FCD000140D3 /* GTMBase64.m in Sources */,
 				40A74F481C19E07900C0A09F /* BBMainViewController.m in Sources */,
+				40E597E31E839D5D000140D3 /* NSString+Category.m in Sources */,
 				40A74F341C19E05700C0A09F /* AppDelegate.m in Sources */,
 				40A74F311C19E05700C0A09F /* main.m in Sources */,
 			);
