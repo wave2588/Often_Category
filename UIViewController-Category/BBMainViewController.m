@@ -23,6 +23,19 @@
 }
 
 
+/// 打印所有字体
+-(void)totalFont
+{
+        NSMutableArray *fontNames = [[NSMutableArray alloc] init];
+        NSArray *fontFamilyNames = [UIFont familyNames];
+        for (NSString *familyName in fontFamilyNames) {
+            NSLog(@"Font Family Name = %@", familyName);
+            NSArray *names = [UIFont fontNamesForFamilyName:familyName];
+            NSLog(@"Font Names = %@", fontNames);
+            [fontNames addObjectsFromArray:names];
+        }
+}
+
 
 
 @end
