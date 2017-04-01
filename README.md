@@ -187,7 +187,7 @@ kingfisher
 13. NSStatusItem:  
 https://www.youtube.com/watch?v=dVllZMY5OJ8
  
-2. Mac OS动画:  
+14. Mac OS动画:    
 http://www.tanhao.me/pieces/702.html/
 
 
@@ -198,7 +198,7 @@ http://www.tanhao.me/pieces/702.html/
 
 
 ## 一些无聊的小玩意~
-1. 制作Icon
+1. 制作Icon:  
 https://makeappicon.com/
 
 
