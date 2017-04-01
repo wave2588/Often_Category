@@ -154,38 +154,50 @@ http://idea.lanyus.com/
 2. Mac高大上的版本更新方法:   
 https://sparkle-project.org/   
 
+
 3. Mac系统监控工具:  
 https://github.com/zixun/GodEye  
+
 
 4. Mac loading:  
 https://github.com/danielmj/DJProgressHUD_OSX   
 
+
 5. Mac视频播放案例:   
 https://ask.macdev.io/?thread-25.htm   
+
 
 6. Core Data购买:   
 https://www.objccn.io/products/core-data/   
 
+
 7. NSFileManager: 这里讲的很详细:  
 http://nshipster.cn/nsfilemanager/   
+
 
 8. 命令制作dmg包:  
 https://github.com/LinusU/node-appdmg   
 
+
 9. Finder Icon:  
 https://developer.apple.com/library/content/documentation/General/Conceptual/ExtensibilityPG/Finder.html  
+
 
 10. Mac  YouTube视频学习资料:  
 https://www.youtube.com/playlist?list=PLU03ExiIcAUsqTHAiZTY-zV8B5bfRHqg9   
 
+
 11. mac开发中使用SDWebImage  
 http://www.xuebuyuan.com/1096469.html   
+
 
 12. Mac开发框架:  
 kingfisher  
  
+ 
 13. NSStatusItem:  
 https://www.youtube.com/watch?v=dVllZMY5OJ8
+ 
  
 14. Mac OS动画:    
 http://www.tanhao.me/pieces/702.html/
@@ -224,4 +236,29 @@ http://blog.sunnyxx.com/
 
 
 7. 大白菜博客:  
- http://www.cabbage.space/home/2016/11/21/grpc/
+ http://www.cabbage.space/home/2016/11/21/grpc/  
+ 
+ 
+8. 全局忽略问题:    
+路径:~/.gitignore_global
+
+
+9. 免费获取视频vip账号链接:  
+http://free.45fan.com/youku/   
+
+
+10. sketch转换成代码:  
+http://www.paintcodeapp.com/sketch  
+  
+
+11. Swift新技能,还没太明白,需要再研究:  
+./tgen gen -l swift -m rest -i 你刚才的thrift的路径 -o 你需要生成的文件存放目录    
+
+
+12. Hybrid  原生和H5混合开发  
+zhoucheng@qfpay.com   
+
+
+13. Sketch:  
+https://github.com/AnimaApp/sketch-web-viewer
+  
