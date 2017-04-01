@@ -145,8 +145,49 @@ https://support.apple.com/zh-cn/HT201165
 
 
 
-## Mac OS开发整理:  
-1. Mac OS动画:  
+## Mac OS开发整理:   
+
+1. IntelliJ IDEA 注册码:  
+http://idea.lanyus.com/  
+
+
+2. Mac高大上的版本更新方法:   
+https://sparkle-project.org/   
+
+3. Mac系统监控工具:  
+https://github.com/zixun/GodEye  
+
+4. Mac loading:  
+https://github.com/danielmj/DJProgressHUD_OSX   
+
+5. Mac视频播放案例:   
+https://ask.macdev.io/?thread-25.htm   
+
+6. Core Data购买:   
+https://www.objccn.io/products/core-data/   
+
+7. NSFileManager: 这里讲的很详细:  
+http://nshipster.cn/nsfilemanager/   
+
+8. 命令制作dmg包:  
+https://github.com/LinusU/node-appdmg   
+
+9. Finder Icon:  
+https://developer.apple.com/library/content/documentation/General/Conceptual/ExtensibilityPG/Finder.html  
+
+10. Mac  YouTube视频学习资料:  
+https://www.youtube.com/playlist?list=PLU03ExiIcAUsqTHAiZTY-zV8B5bfRHqg9   
+
+11. mac开发中使用SDWebImage  
+http://www.xuebuyuan.com/1096469.html   
+
+12. Mac开发框架:  
+kingfisher  
+ 
+13. NSStatusItem:  
+https://www.youtube.com/watch?v=dVllZMY5OJ8
+ 
+2. Mac OS动画:  
 http://www.tanhao.me/pieces/702.html/
 
 
@@ -156,9 +197,31 @@ http://www.tanhao.me/pieces/702.html/
 
 
 
+## 一些无聊的小玩意~
+1. 制作Icon
+https://makeappicon.com/
 
 
+2. 必须要看的100本书:  
+http://mt.sohu.com/20151130/n428913519.shtml  
 
 
+3. 靛青博客:   
+http://blog.dianqk.org/2016/08/22/rxswift-vs-promisekit/   
 
 
+4. 史蒂芬森的博客,里边有很多mac破解版软件  
+http://www.sdifenzhou.com/cleanmymac371.html
+  
+  
+5. RAC博客:  
+http://cbsfly.github.io/ios/rac2     
+http://gold.xitu.io/entry/57764bb65bbb5000593755c7/promoteutm_source=baidu&utm_medium=keyword&utm_content=reactivecocoa&utm_campaign=q3_search  
+
+
+6. 孙源技术博客:  
+http://blog.sunnyxx.com/    
+
+
+7. 大白菜博客:  
+ http://www.cabbage.space/home/2016/11/21/grpc/
