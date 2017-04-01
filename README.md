@@ -13,7 +13,7 @@ AppCode快捷键使用整理:  
 
 
 
-##iOS开发整理:  
+## iOS开发整理:  
 1. iOS测试 帮你养一只猴子来测试~  
 http://www.cocoachina.com/ios/20170320/18920.html
 
@@ -145,7 +145,7 @@ https://support.apple.com/zh-cn/HT201165
 
 
 
-##Mac OS开发整理:  
+## Mac OS开发整理:  
 1. Mac OS动画:  
 http://www.tanhao.me/pieces/702.html/
 
