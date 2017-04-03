@@ -1,7 +1,3 @@
-# Often-Category-
-给常用的几个类新增几个实用的方法
-
-
 
 
 
@@ -243,7 +239,7 @@ http://blog.sunnyxx.com/
 路径:~/.gitignore_global
 
 
-9. 免费获取视频vip账号链接:  
+9. 免费获取视频vip账号链接:    
 http://free.45fan.com/youku/   
 
 
@@ -261,4 +257,7 @@ zhoucheng@qfpay.com
 
 13. Sketch:  
 https://github.com/AnimaApp/sketch-web-viewer
+
+14.   Awesome Mac  
+https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md
   
