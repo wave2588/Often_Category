@@ -263,4 +263,9 @@ https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md
 
 15.   zip文件读写  
 https://github.com/gianlucabertani/Objective-Zip
+
+
+
+16. 数据库sql语句:  
+http://www.jianshu.com/p/22198f89e422
   
