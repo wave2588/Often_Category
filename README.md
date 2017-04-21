@@ -269,4 +269,9 @@ https://github.com/gianlucabertani/Objective-Zip
 16. 数据库  
 http://www.jianshu.com/p/22198f89e422  
 http://www.cnblogs.com/chengaojian/archive/2013/05/28/www-cnblogs-com-chengaojian-oracle-com.html
+
+
+
+17.  廖雪峰Python    
+http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000    
   
