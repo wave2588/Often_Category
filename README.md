@@ -137,7 +137,10 @@ https://support.apple.com/zh-cn/HT201165
 
 28. Xcode模拟器地址:  
 /Library/Developer/CoreSimulator/Profiles/Runtimes/  
-
+  
+  
+29. 很多swift的扩展  
+https://github.com/SwifterSwift/SwifterSwift
 
 
 
