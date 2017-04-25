@@ -196,7 +196,10 @@ https://www.youtube.com/watch?v=dVllZMY5OJ8
  
  
 14. Mac OS动画:    
-http://www.tanhao.me/pieces/702.html/
+http://www.tanhao.me/pieces/702.html/   
+
+15. NSAlert显示在NSStatusItem popover出来的控制器后边的解决办法.
+http://stackoverflow.com/questions/32837468/set-level-for-nsalert-in-cocoa
 
 
 
