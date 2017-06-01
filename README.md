@@ -207,7 +207,10 @@ http://www.tanhao.me/pieces/702.html/
 
 15. NSAlert显示在NSStatusItem popover出来的控制器后边的解决办法.
 http://stackoverflow.com/questions/32837468/set-level-for-nsalert-in-cocoa
-
+  
+  
+16. NSPopover去掉角标,只显示一个矩形的view,自己定制  
+https://github.com/sbooth/SFBPopovers 
 
 
 
